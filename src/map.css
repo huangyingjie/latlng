@@ -1,0 +1,2 @@
+#container { width: 100vw; height: 100vh; position: relative; z-index: 1; }
+#panel { width: 400px; height: 40px; line-height:40px; padding: 0 10px; border-radius: 4px; background-color: #fff; position: absolute; top:0; right:10px; z-index: 10; }
